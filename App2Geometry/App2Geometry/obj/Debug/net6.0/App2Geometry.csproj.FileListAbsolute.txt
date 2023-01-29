@@ -1,0 +1,15 @@
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\bin\Debug\net6.0\App2Geometry.exe
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\bin\Debug\net6.0\App2Geometry.deps.json
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\bin\Debug\net6.0\App2Geometry.runtimeconfig.json
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\bin\Debug\net6.0\App2Geometry.dll
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\bin\Debug\net6.0\App2Geometry.pdb
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\obj\Debug\net6.0\App2Geometry.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\obj\Debug\net6.0\App2Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\obj\Debug\net6.0\App2Geometry.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\obj\Debug\net6.0\App2Geometry.AssemblyInfo.cs
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\obj\Debug\net6.0\App2Geometry.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\obj\Debug\net6.0\App2Geometry.dll
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\obj\Debug\net6.0\refint\App2Geometry.dll
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\obj\Debug\net6.0\App2Geometry.pdb
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\obj\Debug\net6.0\App2Geometry.genruntimeconfig.cache
+C:\Users\marco\Desktop\databases\Esercizi C#\App2Geometry\App2Geometry\obj\Debug\net6.0\ref\App2Geometry.dll
